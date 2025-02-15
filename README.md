@@ -47,7 +47,7 @@ I am an Android developer and AI engineer with expertise in AOSP, Java, AI, Data
    ```sh
    npm run dev
    ```
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+5. Open [http://localhost:3000](http://localhost:3000) in your browser...
 
 ## 🌎 Deployment
 This portfolio is deployed on [Vercel](https://vercel.com/). To deploy manually:
