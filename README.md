@@ -62,7 +62,7 @@ If you have any questions, feel free to reach out:
 - GitHub: [github.com/dhakshin](https://github.com/dhakshin)
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details...
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
