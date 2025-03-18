@@ -25,7 +25,7 @@ I am an Android developer and AI engineer with expertise in AOSP, Java, AI, Data
 │   │── components/  # Reusable components
 │   │── pages/       # Page-level components
 │   │── styles/      # CSS and styling files
-│── .gitignore
+│── .gitignore 
 │── package.json
 │── README.md
 ```
