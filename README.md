@@ -12,7 +12,7 @@ I am an Android developer and AI engineer with expertise in AOSP, Java, AI, Data
 - **Contact & Social Links:** Easy ways to connect with me via LinkedIn, GitHub, and other platforms.
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js, TypeScript, Tailwind CSS
+- **Frontend:** React.js, TypeScript, Tailwind CSS  
 - **Backend:** Node.js, Express.js
 - **Database:** Firebase, PostgreSQL
 - **Hosting:** Vercel
